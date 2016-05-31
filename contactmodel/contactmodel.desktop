@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=contactmodel
+Exec=qmlscene %U contactmodel/Main.qml
+Icon=contactmodel/contactmodel.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
